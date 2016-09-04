@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    
+    self performSelector:@selector(gobackWith:title:age:) withObject:nil];
     [self performSelector:@selector(goback) withObjects:nil];
     [self performSelector:@selector(gobackWith:) withObjects:@[@"wz"]];
     [self performSelector:@selector(gobackWith:title:) withObjects:@[@"wz",@"标题"]];
