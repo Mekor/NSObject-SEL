@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		B2A0AF941D7BDD3E00338CBB /* NSObject+SEL.m in Sources */ = {isa = PBXBuildFile; fileRef = B2A0AF931D7BDD3E00338CBB /* NSObject+SEL.m */; };
+		B2A0AF971D7BDDDA00338CBB /* NSObject+SEL.m in Sources */ = {isa = PBXBuildFile; fileRef = B2A0AF961D7BDDDA00338CBB /* NSObject+SEL.m */; };
 		B2B532431D7BD51700E5D093 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B532421D7BD51700E5D093 /* main.m */; };
 		B2B532461D7BD51700E5D093 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B532451D7BD51700E5D093 /* AppDelegate.m */; };
 		B2B532491D7BD51700E5D093 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B2B532481D7BD51700E5D093 /* ViewController.m */; };
@@ -17,8 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		B2A0AF921D7BDD3E00338CBB /* NSObject+SEL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSObject+SEL.h"; sourceTree = "<group>"; };
-		B2A0AF931D7BDD3E00338CBB /* NSObject+SEL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSObject+SEL.m"; sourceTree = "<group>"; };
+		B2A0AF951D7BDDDA00338CBB /* NSObject+SEL.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSObject+SEL.h"; path = "../../NSObject+SEL.h"; sourceTree = "<group>"; };
+		B2A0AF961D7BDDDA00338CBB /* NSObject+SEL.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSObject+SEL.m"; path = "../../NSObject+SEL.m"; sourceTree = "<group>"; };
 		B2B5323E1D7BD51700E5D093 /* Selector.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Selector.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2B532421D7BD51700E5D093 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B2B532441D7BD51700E5D093 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -65,8 +65,8 @@
 				B2B532451D7BD51700E5D093 /* AppDelegate.m */,
 				B2B532471D7BD51700E5D093 /* ViewController.h */,
 				B2B532481D7BD51700E5D093 /* ViewController.m */,
-				B2A0AF921D7BDD3E00338CBB /* NSObject+SEL.h */,
-				B2A0AF931D7BDD3E00338CBB /* NSObject+SEL.m */,
+				B2A0AF951D7BDDDA00338CBB /* NSObject+SEL.h */,
+				B2A0AF961D7BDDDA00338CBB /* NSObject+SEL.m */,
 				B2B5324A1D7BD51700E5D093 /* Main.storyboard */,
 				B2B5324D1D7BD51700E5D093 /* Assets.xcassets */,
 				B2B5324F1D7BD51700E5D093 /* LaunchScreen.storyboard */,
@@ -154,7 +154,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B2A0AF941D7BDD3E00338CBB /* NSObject+SEL.m in Sources */,
+				B2A0AF971D7BDDDA00338CBB /* NSObject+SEL.m in Sources */,
 				B2B532491D7BD51700E5D093 /* ViewController.m in Sources */,
 				B2B532461D7BD51700E5D093 /* AppDelegate.m in Sources */,
 				B2B532431D7BD51700E5D093 /* main.m in Sources */,
